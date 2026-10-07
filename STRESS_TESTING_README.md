@@ -1,22 +1,22 @@
-# STRESS_TESTING_README.md — Phương pháp luận & kết quả stress testing
+# STRESS_TESTING_README.md - Phương pháp luận & kết quả stress testing
 
 Áp dụng `src/stress_testing.py` lên baseline đã kiểm định (xem `mapping/mapping_README.md`,
-mục "Sensitivity & Benchmark") — **chỉ stress LCR** (NSFR để sau). Toàn bộ số liệu nằm trong
+mục "Sensitivity & Benchmark") - **chỉ stress LCR** (chưa có NSFR). Toàn bộ số liệu nằm trong
 `data/processed/stress_*.csv`, hoặc truy vấn qua `liquidity_risk.db` (bảng `stress_*`).
 
-Đơn vị gốc của dữ liệu là nghìn USD; các bảng dưới đây đã quy đổi sang tỷ USD ($B) cho dễ đọc.
+Đơn vị gốc của dữ liệu là nghìn USD; các bảng dưới đây đã quy đổi sang tỷ USD ($B) để dễ đọc.
 
 ## Giả định tường minh quan trọng nhất
 
-**Không mô hình hoá management action / counterbalancing capacity** — không có giả định ngân
+**Không mô hình hoá management action / counterbalancing capacity** - không có giả định ngân
 hàng sẽ bán tài sản ngoài HQLA, rút hạn mức dự phòng, hay cắt giảm cho vay mới để ứng phó cú
 sốc. Toàn bộ kết quả dưới đây là phản ứng "cơ học" thuần tuý của bảng cân đối như đã báo cáo,
-dưới cú sốc đã cho — một ngân hàng thật sẽ phản ứng, nên kết quả này **cố tình bi quan hơn**
+dưới cú sốc đã cho - một ngân hàng thật sẽ phản ứng, nên kết quả này **cố tình bi quan hơn**
 thực tế một ngân hàng sẽ trải qua.
 
 **Baseline proxy đã thấp hơn số LCR thật JPMorgan công bố ~19-33 điểm %** (xem benchmark). Vì
 vậy **mọi kết quả dưới đây đều báo cả số tuyệt đối lẫn delta so với baseline của chính mô
-hình** — không nên đọc số tuyệt đối một mình, dễ hiểu nhầm "ngân hàng sắp sụp" trong khi đó là
+hình** - không nên đọc số tuyệt đối một mình, dễ hiểu nhầm "ngân hàng sắp sụp" trong khi đó là
 đặc tính bảo thủ của proxy, không phải điểm yếu thật của JPMorgan.
 
 ## 1. Ba kịch bản cố định
@@ -72,12 +72,12 @@ Phân vị p5-p95 vì vậy phụ thuộc trực tiếp vào hai lựa chọn n�
 | p75 | 54.5% | -30.5 |
 | p95 | 61.7% | -23.3 |
 
-**Kiểm tra chéo**: median (50.7%) rất khớp với combined scenario điểm (51.0%) — xác nhận model
+**Kiểm tra chéo**: median (50.7%) rất khớp với combined scenario điểm (51.0%) - xác nhận model
 nhất quán giữa 2 cách tính (kịch bản cố định vs phân phối xác suất quanh cùng tâm).
 
 ## 3. Survival horizon (Q2/2026)
 
-Giả định: outflow rải đều theo ngày trong 30 ngày (`net_outflow / 30`/ngày) — giả định đơn
+Giả định: outflow rải đều theo ngày trong 30 ngày (`net_outflow / 30`/ngày) - giả định đơn
 giản hoá, thực tế dòng rút thường dồn vào những ngày đầu khủng hoảng hơn là rải đều.
 
 | Kịch bản | HQLA | Net outflow 30d | LCR | Số ngày sống sót |
@@ -97,7 +97,7 @@ từng hệ số, cho phép ngoại suy ngoài [0,1]):
 
 | Mục tiêu LCR | θ cần | Diễn giải |
 |---|---:|---|
-| 100% | **-0.23** | **Cần GIẢM stress xuống dưới cả baseline** 23% khoảng cách combined — vì baseline vốn đã <100%. Đây là minh chứng trực quan nhất cho đặc tính bảo thủ của proxy, không phải JPMorgan thật sự dưới ngưỡng quy định. |
+| 100% | **-0.23** | **Cần GIẢM stress xuống dưới cả baseline** 23% khoảng cách combined - vì baseline vốn đã <100%. Đây là minh chứng trực quan nhất cho đặc tính bảo thủ của proxy, không phải JPMorgan thật sự dưới ngưỡng quy định. |
 | 75% | 0.20 | Chỉ cần 20% cường độ combined scenario đã đủ chạm 75% |
 | 50% | 1.05 | Cần hơi quá (105%) cường độ combined để chạm 50% |
 | ~0% (HQLA cạn gần hết) | ~40.0 | Cần gấp ~40 lần cường độ combined — cho thấy dù combined đã nặng, vẫn còn cách rất xa điểm cạn kiệt hoàn toàn thanh khoản |
