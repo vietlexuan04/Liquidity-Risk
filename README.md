@@ -14,13 +14,6 @@ Call Report công khai (không đủ chi tiết để tính đúng 100% theo quy
 thấp hơn số LCR thật JPMorgan công bố khoảng **19-33 điểm %** (xem benchmark bên dưới). Đây
 là đặc tính đã biết của mô hình, có giải thích đầy đủ, không phải lỗi.
 
-## Tech stack
-
-Python 3.8+ (đã chạy thử trên 3.12; pandas-free, chỉ dùng thư viện chuẩn: `csv`, `sqlite3`, `random`) cho
-pipeline + tính toán · SQLite cho lưu trữ/truy vấn · Power BI cho dashboard (**dự kiến, chưa có file nào
-trong repo**) · dữ liệu nguồn: FDIC BankFind (tải thủ công, không cần code để lấy dữ liệu thô).
-Không cần cài thêm thư viện nào; các script phải chạy từ **thư mục gốc** của repo (đường dẫn viết cứng).
-
 ## Luồng xử lý (chạy theo thứ tự)
 
 ```
