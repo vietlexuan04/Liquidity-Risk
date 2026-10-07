@@ -98,7 +98,7 @@ sửa" (mỗi lỗi đều được xác minh lại bằng số liệu 14 quý t
 
 ### 4. Stress testing (chỉ LCR; đầy đủ: `STRESS_TESTING_README.md`)
 Combined scenario kéo LCR Q2/2026 từ 85% → 51% (Δ-34pp); Idiosyncratic (-31pp) nặng hơn so với Market-wide (-6pp) vì rút tiền gửi/drawdown cam kết là khoản $ lớn hơn haircut chứng
-khoán. Reverse stress test cho thấy baseline đã <100% ngay cả khi chưa stress — minh chứng
+khoán. Reverse stress test cho thấy baseline đã <100% ngay cả khi chưa stress - minh chứng
 trực quan cho đặc tính bảo thủ của proxy nói ở trên.
 
 ## Giới hạn đã biết (đọc trước khi dùng số trong repo)
