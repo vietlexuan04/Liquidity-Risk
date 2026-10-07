@@ -2,7 +2,7 @@
 
 Mô phỏng quy trình phân tích rủi ro thanh khoản ngân hàng theo Basel III (LCR, NSFR) +
 stress testing, xây dựng trên dữ liệu công khai FDIC của **JPMorgan Chase Bank, N.A.**
-(Cert #628), Q1/2023 – Q2/2026. Mục tiêu minh hoạ quy trình phân tích (data pipeline → mapping có kiểm
+(Cert #628), Q1/2023 - Q2/2026. Mục tiêu minh hoạ quy trình phân tích (data pipeline → mapping có kiểm
 chứng → ratio engine → sensitivity/benchmark → stress testing → SQL; dashboard Power BI), không phải
 tái tạo số liệu quản trị chính thức của JPMorgan.
 
@@ -10,7 +10,7 @@ tái tạo số liệu quản trị chính thức của JPMorgan.
 quả trong README đã quy đổi sang tỷ USD ($B).
 
 **Đọc trước khi dùng số trong repo này**: toàn bộ LCR/NSFR là **proxy**, tính từ dữ liệu
-Call Report công khai (không đủ chi tiết để tính đúng 100% theo quy định) — baseline proxy
+Call Report công khai (không đủ chi tiết để tính đúng 100% theo quy định) - baseline proxy
 thấp hơn số LCR thật JPMorgan công bố khoảng **19-33 điểm %** (xem benchmark bên dưới). Đây
 là đặc tính đã biết của mô hình, có giải thích đầy đủ, không phải lỗi.
 
@@ -86,7 +86,7 @@ LCR: 113% (Q1/23) → 85% (Q2/26); NSFR: 140% → 115%. Cả hai giảm dần th
 ### 2. Sensitivity & Benchmark (kiểm định trước khi stress)
 2 giả định "0% dòng tiền vào" (`L_OTH_LE12`, `A_REVREPO`, tổng ~$1,200B) có độ nhạy đủ lớn
 (+48 đến +49pp mỗi dòng khi chuyển sang biên trên, vốn là trần lý thuyết) để có thể giải thích một phần đáng kể khoảng lệch -19 đến -33pp so với
-LCR thật JPMorgan Chase Bank, N.A. công bố (10-Q SEC) — đo bằng OAT sensitivity trên 17 trong 19 dòng
+LCR thật JPMorgan Chase Bank, N.A. công bố (10-Q SEC) - đo bằng OAT sensitivity trên 17 trong 19 dòng
 `confidence=Low`. Đây là bằng chứng về độ nhạy, chưa phải chứng minh nguyên nhân duy nhất (xem mục Giới hạn).
 Chi tiết: `mapping/mapping_README.md`.
 
@@ -107,9 +107,9 @@ trực quan cho đặc tính bảo thủ của proxy nói ở trên.
 - Trading liabilities (`B_TRADEL`) bị bỏ sót hoàn toàn khỏi LCR outflow → ngược chiều, proxy cao hơn thực tế ở điểm này
 - Giả định kỳ hạn đều (uniform maturity) cho các dòng gộp ≤1 năm
 - Không mô hình hoá management action/counterbalancing capacity trong stress testing
-- 19/48 dòng mapping có `confidence=Low` — đã lượng hoá mức ảnh hưởng qua sensitivity, không chỉ cảnh báo suông
+- 19/48 dòng mapping có `confidence=Low` - đã lượng hoá mức ảnh hưởng qua sensitivity, không chỉ cảnh báo suông
 - Hệ số trong mapping theo Basel (BCBS 238/295), còn LCR thật dùng để benchmark theo quy tắc của Mỹ; số thật là
-  **trung bình quý**, proxy tính từ **số cuối kỳ** — một phần khoảng lệch đến từ khác biệt phương pháp
+  **trung bình quý**, proxy tính từ **số cuối kỳ** - một phần khoảng lệch đến từ khác biệt phương pháp
 - Dữ liệu là Call Report của riêng ngân hàng (solo), không phải toàn tập đoàn JPMorgan Chase & Co.
 - **NSFR chưa có benchmark** với số thật (chỉ LCR có), nên NSFR proxy chưa được đối chiếu
 - Số LCR thật trong benchmark là số **nhập tay** (8 quý), không do code tạo ra
