@@ -1,0 +1,5 @@
+target_LCR_pct,required_theta,interpretation
+100,-0.229,LESS stress than baseline by 23% of the combined-scenario gap
+75,0.203,20% of the combined-scenario shock
+50,1.05,105% of the combined-scenario shock
+0,39.994,stress intensity at which HQLA is ~fully depleted within 30 days

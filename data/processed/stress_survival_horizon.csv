@@ -1,0 +1,5 @@
+scenario,HQLA_B,net_outflow_30d_B,LCR_pct,survival_days,survives_30d
+baseline,957.1,1125.7,85.0,25.5,No
+idiosyncratic,957.1,1779.3,53.8,16.1,No
+market_wide,940.6,1190.5,79.0,23.7,No
+combined,940.6,1844.1,51.0,15.3,No
