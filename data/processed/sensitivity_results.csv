@@ -1,0 +1,30 @@
+test_type,line_id,field,low,high,note,LCR_at_low,LCR_at_high,delta_LCR_pp,NSFR_at_low,NSFR_at_high,delta_NSFR_pp
+plausible,A_CASH_FOREIGN,hqla_haircut,0.0,1.0,"L1 central-bank reserve (0% haircut, current) vs ordinary correspondent balance, not HQLA",85.03,63.33,-21.69,112.86,112.86,0.0
+plausible,A_CASH_FOREIGN,nsfr_rsf,0.0,0.15,"central-bank reserve (0% RSF, current) vs FI placement <6m (15% RSF)",85.03,85.03,0.0,112.86,110.86,-2.0
+plausible,A_CIPC,nsfr_rsf,0.0,1.0,"near-cash, clears fast (0%) vs conservative 'other asset' (100%, current)",85.03,85.03,0.0,113.88,112.86,-1.02
+plausible,S_MUNI,hqla_haircut,0.5,1.0,"investment-grade GO muni, L2B (50%, current) vs not HQLA",85.03,83.83,-1.19,112.86,112.86,0.0
+plausible,S_MUNI,nsfr_rsf,0.5,0.85,"L2B RSF (50%, current) vs non-HQLA RSF (85%)",85.03,85.03,0.0,112.86,112.34,-0.52
+plausible,S_OTHDOM,nsfr_rsf,0.65,1.0,eligible >=1y non-HQLA bond (65%) vs unrated/equity-like (100%); current 85%,85.03,85.03,0.0,113.64,112.28,-1.36
+plausible,S_FOR,nsfr_rsf,0.65,1.0,could include eligible foreign sovereign debt (65%) vs fully unrated (100%); current 85%,85.03,85.03,0.0,113.43,112.44,-0.99
+plausible,S_OTHER,nsfr_rsf,0.65,1.0,same bracket as above; current 85%,85.03,85.03,0.0,112.91,112.83,-0.08
+plausible,A_TRADE,nsfr_rsf,0.15,1.0,securities-like trading book (15%) vs derivative-like (100%); current 85%,85.03,85.03,0.0,147.34,107.47,-39.87
+plausible,A_REVREPO,lcr_inflow,0.0,0.15,"Level 1 collateral (0%, current, Basel LCR40.79) vs Level 2A collateral (15%), assuming all matures <=30d",85.03,89.9,4.88,112.86,112.86,0.0
+plausible,A_REVREPO,nsfr_rsf,0.1,0.15,"L1-collateralised (10%) vs other collateral <6m (15%, current)",85.03,85.03,0.0,114.01,112.86,-1.15
+plausible,L_NBFI_SHORT,lcr_inflow,0.0,1.0,no credit (0%) vs whole line maturing <=30d (100%); current 33% = 30/90,80.25,96.51,16.26,112.86,112.86,0.0
+plausible,L_OTH_LE12,lcr_inflow,0.0,0.1533,"no credit (0%, current) vs 50% inflow on the 30/90 share of the <=3m bucket (= 15.3% of the line)",85.03,95.77,10.75,112.86,112.86,0.0
+plausible,L_RECON,nsfr_rsf,0.65,1.0,"mostly performing, just unscheduled (65%) vs non-performing (100%); current 85%",85.03,85.03,0.0,112.97,112.78,-0.18
+plausible,D_DOM_FOR,lcr_outflow,0.4,1.0,"mostly foreign govt / official, non-operational (40%) vs foreign banks (100%, current)",89.94,85.03,-4.92,112.86,112.86,0.0
+plausible,D_DOM_FOR,nsfr_asf,0.0,0.5,"foreign banks (0%, current) vs govt / official (50%)",85.03,85.03,0.0,112.86,115.39,2.53
+plausible,D_FO_IPC,lcr_outflow,0.25,1.0,operational corporate deposit (25%) vs non-bank FI (100%); current 40%,91.08,67.17,-23.91,112.86,112.86,0.0
+plausible,B_REPO,lcr_outflow,0.0,1.0,fully L1-collateralised (0%) vs other collateral (100%); current 25%,90.22,72.5,-17.72,112.86,112.86,0.0
+plausible,B_OTHL,lcr_outflow,0.0,0.2,"pure accruals/payables (0%, current) vs some near-term funding mixed in (20%)",85.03,81.84,-3.18,112.86,112.86,0.0
+plausible,O_OTHER,lcr_outflow,0.1,0.5,mostly corporate credit facility (10%) vs liquidity/FI facility mix (50%); current 20%,90.79,71.42,-19.37,112.86,112.86,0.0
+plausible,O_SBLC,lcr_outflow,0.05,0.2,"trade-related SBLC (5%, current) vs financial guarantee (20%)",85.03,84.12,-0.9,112.86,112.86,0.0
+plausible,O_SBLC,nsfr_rsf,0.0,0.05,national discretion: 0% (current) vs treated like a committed facility (5%),85.03,85.03,0.0,112.86,112.64,-0.22
+ceiling,L_OTH_LE12,lcr_inflow,0.0,0.5,"CEILING: 50% inflow on the WHOLE <=12m line, ignoring that most of it does not mature within 30 days",85.03,134.12,49.09,112.86,112.86,0.0
+ceiling,A_REVREPO,lcr_inflow,0.0,1.0,CEILING: 100% inflow on all reverse repos = all collateral non-HQLA AND all maturing <=30d,85.03,133.2,48.17,112.86,112.86,0.0
+omission,B_TRADEL,lcr_outflow,0.0,0.2,"trading liabilities omitted (0%, current) vs 20% outflow",85.03,82.54,-2.49,112.86,112.86,0.0
+omission,B_TRADEL,lcr_outflow,0.0,0.5,"trading liabilities omitted (0%, current) vs 50% outflow",85.03,79.07,-5.95,112.86,112.86,0.0
+omission,B_TRADEL,lcr_outflow,0.0,1.0,"trading liabilities omitted (0%, current) vs 100% outflow",85.03,73.9,-11.13,112.86,112.86,0.0
+omission,M_SCPLEDGE,l1_deduction,0.0,1.0,pledged securities ($78.2B) kept in HQLA (current) vs fully deducted from Level 1,85.03,78.08,-6.95,112.86,112.86,0.0
+envelope,ALL_PLAUSIBLE,all,worst,best,"every plausible bound pushed in the same direction at once; theoretical outer limit, not a confidence interval",35.75,180.04,144.3,104.04,157.27,53.22

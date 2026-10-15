@@ -1,0 +1,715 @@
+mnemonic,label
+ABCUBK,Unused Commitments to Provide Liquidity to Conduit Structures by the bank
+ABCUOTH,"Unused Commitments to Provide Liquidity, Unrelated Institutions"
+ABCXBK,Maximum Credit Exposure Asset-Backed Commercial Paper Conduits Sponsored by Bank
+ABCXOTH,Maximum Credit Exposure Asset-Backed Commercial Paper Conduits Sponsored by Unrelated Institutions
+ALLOTHL,All other liabilities
+AOA,All Other Assets
+ASCEOTH,"Maximum Amount of Credit Exposure, Bank Asset Sales All Other Loans & All Leases"
+ASCERES,"Maximum Amount of Credit Exposure, Bank Asset Sales 1-4 Family Residential Loans"
+ASDROTH,Assets Sold with Recourse All Other Loans and All Leases
+ASDRRES,Assets Sold with Recourse 1-4 Family Residential Loans
+ASSET,3. Total Assets
+ASSET2,"Average assets, quarterly"
+ASSET5,Average assets year to date
+ASSTLT,Long-term assets (5+ years)
+AVASSETJ,Adjusted average assets for leverage capital purposes
+AVMMLF,Quarterly average amount of assets purchased under the MMLF and excluded from “Total assets for the leverage ratio.”
+AVPPPPLG,Quarterly average amount of PPP loans pledged to the PPPLF and excluded from “Total assets for the leverage ratio.”
+BKPREM,Bank Premises and Fixed Assets
+BRO,Total Brokered Deposits
+BROINS,Fully Insured Brokered Deposits
+CALLFORM,10. Regulatory reporting form number (FFIEC Call report number or before 2012 100 indicates FHLB TFR reporter)
+CD1T3,"Time Deposits of $250,000 or more remaining maturity or repricing of 1-3 years ($100,000 through 2016)"
+CD1T3S,"Time Deposits of $250,000 or less remaining maturity or repricing of 1-3 years ($100,000 through 2016)"
+CD3LES,"Time Deposits of $250,000 or more remaining maturity or repricing of 3 months or less ($100,000 through 2016)"
+CD3LESS,"Time Deposits of $250,000 or less remaining maturity or repricing of 3-month or less ($100,000 through 2016)"
+CD3T12,"Time Deposits of $250,000 or more remaining maturity or repricing of 3-12 months ($100,000 through 2016)"
+CD3T12S,"Time Deposits of $250,000 or less remaining maturity or repricing of 3-12 months ($100,000 through 2016)"
+CDOV3,"Time Deposits of $250,000 or more remaining maturity or repricing of over 3 years ($100,000 through 2016)"
+CDOV3S,"Time Deposits of $250,000 or less remaining maturity or repricing of over 3 years ($100,000 through 2016)"
+CHBAL,Cash and Balances due from Depository Institutions
+CHBALI,Interest Bearing Balances
+CHBALNI,Noninterest Bearing Balances
+CHCIC,Cash Items in Process of Collection
+CHCOIN,Currency and Coin in Domestic Offices
+CHFRB,Balances due from Federal Reserve Board Banks
+CHITEM,Collection in Domestic Offices
+CHNUS,Balances due from Foreign Banks
+CHUS,Balances due from depository institutions in US
+COREDEP,Core (Retail) Deposits
+CTDERBEN,Bank is Beneficiary
+CTDERGTY,Bank is Guarantor
+DDT,Demand Deposits
+DEP,Total Deposits
+DEPCSBQ,Deposit Liabilities after Exclusions
+DEPDOM,Deposits held in Domestic Offices
+DEPFBKF,Banks in Foreign Countries
+DEPFGOVF,Foreign Governments and Official Institutions
+DEPFOR,Deposits held in Foreign Offices
+DEPIDOM,Interest-bearing Deposits
+DEPIFOR,Interest-bearing Deposits
+DEPINS,Estimated Insured Deposits
+DEPIPCCF,"Individuals, Partnerships, and Corporations"
+DEPLGAMT,"Amount of Deposit Accounts greater than $250,000 (or $100,00 through 2009)"
+DEPLGB,"Number of Deposit Account Greater than $250,000 (or $100,000)"
+DEPLGRA,"Amount of Retirement Deposit Account of more than $250,000"
+DEPLGRN,"Number of Retirement Deposit Accounts more than $250,000"
+DEPLSNB,Estimated Amount of Deposits Obtained Through the Use of Deposit Listing Services that are not Brokered
+DEPNIDOM,Noninterest-bearing Deposits
+DEPNIFOR,Noninterest-bearing Deposits
+DEPSMAMT,"Amount of Deposit accounts at $250,000 or less (or $100,000 through June 2009)"
+DEPSMB,"Number of Deposit Accounts Equal to or Less than Equal to $250,000 (or $100,000 through June 2009)"
+DEPSMRA,"Amount of Retirement Deposit Accounts of $250,000 or less"
+DEPSMRN,"Number of Retirement Deposit Accounts of $250,000 or less"
+DEPUNINS,Estimated Uninsured Deposits in Domestic Offices and in Insured Branches in US Territories and Possessions
+DEPUSBKF,Commercial Banks and Other Depository Institutions in US
+DEPUSMF,"US Government, States, and Political Subdivisions"
+EDCM,Contracts on other Commodities and Equities
+ENCEAUTO,"Maximum Credit Exposure, Auto Loans Securitized by Others"
+ENCECI,"Maximum Credit Exposure, C&I Loans Securitized by Others"
+ENCECON,"Maximum Credit Exposure, Other Consumer Loans Securitized by Others"
+ENCEOTH,"Maximum Credit Exposure, All Other Loans & Leases Securitized by Others"
+ENCERES,"Maximum Credit Exposure, 1-4 Family Residential Loans Securitized by Others"
+EQ,Bank Equity Capital
+EQCBHCTR,Other transactions with parent holding company
+EQCCOMPI,Other comprehensive income
+EQCDIVC,Cash dividends declared on common stock
+EQCDIVP,Cash dividends declared on preferred stock
+EQCMRG,"Changes incidental to business combinations, net"
+EQCONSUB,"Equity, minor interest in consolidated subs"
+EQCPREV,Amended balance at previous year-end
+EQCREST,"Restatements from amended reports of income, net"
+EQCS,Common stock
+EQCSTKRX,"Sale, conversion, retirement of capital stock, net"
+EQCTRSTX,"Treasury stock transactions, net"
+EQPP,Perpetual preferred stock
+EQSUR,Surplus
+EQTOT,Total Equity Capital
+EQUPTOT,Undivided profits
+ERNAST,Earning assets
+ESTINS,% Insured (Estimated) (footnote: 7
+FREPO,Federal Funds Sold & Reverse Repurchase Agreements
+FREPP,Federal funds purchased and repurchase agreements
+FX,Foreign Exchange Rate Contracts
+FXFFC,Commitments to purchase foreign currencies & US dollar exchange
+FXNVS,Notional Value of Exchange Swaps
+FXPOC,Purchased Option Contracts
+FXSPOT,Sport Foreign Exchange Rate Contracts
+FXWOC,Written Option Contracts
+IFIDUC,"Fiduciary Activities, Gross Income"
+INTAN,Goodwill and Other Intangibles
+INTANGW,Goodwill
+INTANMSR,Mortgage Servicing Assets
+INTANOTH,All Other Identifiable Intangible Assets
+IRAKEOGH,IRAs and Keogh Plan Accounts
+LAG,Farm loans
+LCI,Commercial and industrial loans
+LCON,"Loans to individuals for household, family, and other personal expenditures"
+LIAB,Total Liabilities
+LIABEQ,4. Total Liabilities and Capital
+LNAG,Farm Loans
+LNAG1,"Total with Original Amounts of $100,000 or Less"
+LNAG1N,"Number with Original Amounts of $100,000 or Less"
+LNAG2,"Total with Original Amounts of More Than $100,000 Through $250,000"
+LNAG2N,"Number with Original Amounts of More Than $100,000 Through $250,000"
+LNAG3,"Total with Original Amounts of More Than $250,000 Through $1,000,000"
+LNAG3N,"Number with Original Amounts of More Than $250,000 Through $1,000,000"
+LNAG4,Total Loans to Finance Agriculture Production and Other Loans to Farmers
+LNAG4N,Number of Loans to Finance Agriculture Production and Other Loans to Farmers
+LNAGFOR,Farm Loans
+LNATRES,Plus: Allowance for Loan and Lease Losses
+LNAUTO,Automobile Loans
+LNCI,Commercial and Industrial Loans
+LNCI1,"Total with Original Amounts of $100,000 or Less"
+LNCI1N,"Number with Original Amounts of $100,000 or Less"
+LNCI2,"Total with Original Amounts of More Than $100,000 Through $250,000"
+LNCI2N,"Number with Original Amounts of More Than $100,000 Through $250,000"
+LNCI3,"Total with Original Amounts of More Than $250,000 Through $1,000,000"
+LNCI3N,"Number with Original Amounts of More Than $250,000 Through $1,000,000"
+LNCI4,Total Loans Secured Commercial and Industrial Loans to U.S. Addressees
+LNCI4N,Number Loans Secured Commercial and Industrial Loans to U.S. Addressees
+LNCIFOR,Commercial and Industrial Loans
+LNCINUSF,To Non-U.S. Addressees
+LNCOMRE,Commercial Real Estate Loans not Secured by Real Estate
+LNCON,Loans to Individuals
+LNCONFOR,Loans to Individuals
+LNCONOTH,Other Loans to Individuals
+LNCONRP,Other Revolving Credit Plans
+LNCONTRA,Plus: Unearned Income
+LNCRCD,Credit Cards
+LNDEPAOBK,Loans to Depository Institutions and Acceptance of Other Banks
+LNDEPCBF,To Commercial Banks in U.S.
+LNDEPFCF,To Banks in Foreign Countries
+LNDEPUSF,To Other Depository Institutions in U.S.
+LNEXAMT,Insider Loans
+LNFG,Loans to Foreign Governments & Official Institutions
+LNFGFOR,Loans to Foreign Govts & Official Institutions
+LNLSFOR,"Loans and Leases, Gross"
+LNLSGR,Total Loans & Leases
+LNLSGRF,Total Loans & Leases in Foreign Offices
+LNLSGRS,"Loans and Leases, Gross"
+LNLSNET,Net Loans and Leases
+LNLSSALE,Loans and Leases Held for Sale
+LNMUNI,Obligations of States & Political subdivisions in U.S.
+LNMUNIF,Obligations of States & Political Subdivisions in U.S.
+LNNDEPD,Loans to Non-Depository Financial Institutions
+LNOT1T3,Over 1 Year Through 3 Years
+LNOT3LES,Three Months or Less
+LNOT3T12,Over 3 Months Through 12 Months
+LNOT3T5,Over 3 Years Through 5 Years
+LNOT5T15,Over 5 Years Through 15 Years
+LNOTCI,Total Other Loans and Leases
+LNOTHERF,Other Loans
+LNOTOV15,Over 15 Years
+LNPLEDGE,Pledged Loans and Leases
+LNRE,All Real Estate Loans
+LNREAG,Farmland Real Estate Loans
+LNREAG1,"Total with Original Amounts of $100,000 or Less"
+LNREAG1N,"Number with Original Amounts of $100,000 or Less"
+LNREAG2,"Total with Original Amounts of More Than $100,000 Through $250,000"
+LNREAG2N,"Number with Original Amounts of More Than $100,000 Through $250,000"
+LNREAG3,"Total with Original Amounts of More Than $250,000 Through $1,000,000"
+LNREAG3N,"Number with Original Amounts of More Than $250,000 Through $1,000,000"
+LNREAG4,Total Loans Secured by Farmland (Including Farm Residential and Other Improvements)
+LNREAG4N,Number Loans Secured by Farmland (Including Farm Residential and Other Improvements)
+LNRECNFM,1-4 Family Residential Construction and Land Development Loans
+LNRECNOT,"Other Construction, All Land Development and Other Land Loans"
+LNRECONS,Construction and Land Development Real Estate Loans
+LNREDOM,Real Estate Loans in Domestic Offices
+LNREFOR,Real Estate Loans in Foreign Offices
+LNRELOC,1-4 Family Residential Real Estate Extended by Lines of Credit
+LNREMULT,Multifamily Residential Real Estate Loans
+LNRENR1,"Total with Original Amounts of $100,000 or Less"
+LNRENR1N,"Number with Original Amounts of $100,000 or Less"
+LNRENR2,"Total with Original Amounts of More Than $100,000 Through $250,000"
+LNRENR2N,"Number with Original Amounts of More Than $100,000 Through $250,000"
+LNRENR3,"Total with Original Amounts of More Than $250,000 Through $1,000,000"
+LNRENR3N,"Number with Original Amounts of More Than $250,000 Through $1,000,000"
+LNRENR4,Total Loans Secured by Nonfarm Nonresidential Properties
+LNRENR4N,Number Loans Secured by Nonfarm Nonresidential Properties
+LNRENRES,Commercial Real Estate Loans
+LNRENROT,Commercial Real Estate Other Non-Farm Non-Residential
+LNRENROW,Commercial Real Estate Owner-Occupied
+LNRENUS,Loans Secured by Real Estate to Non-U.S. Addresses
+LNRERES,1-4 Family Residential Real Estate Loans
+LNRERSF1,Adjustable Rate Loans Secured by 1-4 Family Residential Real Estate
+LNRERSF2,1-4 Family Residential Real Estate Secured by Junior Liens
+LNRERSFM,1-4 Family Residential Real Estate Secured by First Liens
+LNRS1T3,Over 1 Year Through 3 Years
+LNRS3LES,Three Months or Less
+LNRS3T12,Over 3 Months Through 12 Months
+LNRS3T5,Over 3 Years Through 5 Years
+LNRS5T15,Over 5 Years Through 15 Years
+LNRSOV15,Over 15 Years
+LNSERV,"Other Financial Assets, Balance Serviced for Others"
+LNSOTHER,Other Loans
+LOCCOM,Commercial and Similar Letters of Credit
+LOCFPSB,Financial and Performance Standby Letters of Credit and Foreign Office Guarantees
+LOCFPSBK,Financial and Performance Foreign Office Guarantees Conveyed to Others Amount
+LOCFSB,Financial Standby Letters of Credit and Foreign Office Guarantees
+LOCFSBK,Financial Foreign Office Guarantees Conveyed to Others Amount
+LOCPSB,Performance Standby Letters of Credit
+LOCPSBK,Performance Letters of Credit Conveyed to Others Amount
+LOREGTY,Maximum recoverable portion of other real estate owned protected under FDIC loss share agreements
+LOTH,All other loans and all leases
+LREAG,Real estate loans secured by farmland
+LRECONS,"Real estate loans secured by construction, land development, and other land loans"
+LREMULT,Real estate loans secured by multifamily (5 or more) residential properties
+LRENRES,Real estate loans secured by nonfarm nonresidential properties
+LRERES,Real estate loans secured by 1-4 family residential properties
+LS,Lease Financing Receivables
+LSALNLS,Carrying amount of covered of loans and leases
+LSAOA,Carrying amount of other assets
+LSAORE,Carrying amount of other real estate owned
+LSASCDBT,Carrying amount of debt securities
+LSFOR,Lease Financing Receivables
+MMLFBAL,Outstanding balance of assets purchased under the Money Market Mutual Fund Liquidity Facility (MMLF).
+MSRECE,"Closed end 1-4 Family Residential Loans with resource, Balance Serviced for Others"
+MSRESFCL,Serviced 1-4 Family Loans in Foreclosure
+MSRNRECE,"Closed end 1-4 Family Residential loans with no resource, Balance Serviced for Others"
+N/A,Less: General Valuation Allowances for Securities for TFR Reporters
+NAAG,Loans to Finance Agricultural Prod and Other Loans to Farmers
+NAAGSM,Loans to Finance Agricultural Prod and Other Loans to Farmers (Small)
+NAASSET,Assets in Nonaccrual Status
+NAAUTO,Automobile Loans
+NACDIR,Notional Amount of Credit Derivatives
+NACI,Commercial & Industrial Loans
+NACINUS,To Non-U.S. Addressees
+NACON,Loans to Individuals
+NACONOTH,Other Consumer Loans
+NACRCD,Credit Cards
+NADEP,Loans to Depository Institutions
+NADEPNUS,To Foreign Banks
+NAFG,Loans to Foreign Governments & Official Institutions
+NAGTY,"Guaranteed portion of loans and leases, excluding GNMA loans in nonaccrual status"
+NAGTYGNM,"Rebooked GNMA loans, repurchased or are eligible for repurchase in nonaccrual status"
+NAGTYPAR,"Loans and Leases, Wholly or Partially Guaranteed by the U.S Government"
+NALAG,Farm loans in nonaccrual
+NALCI,Commercial and industrial loans in nonaccrual
+NALCON,"Loans to individuals for household, family, and other personal expenditures in nonaccrual"
+NALGTY,Total portion of covered nonaccrual loans protected by FDIC loss-sharing agreements
+NALNSALE,Loans Held for Sale
+NALOTH,All other loans and all leases in nonaccrual
+NALREAG,Real estate loans secured by farmland in nonaccrual
+NALRECON,"Real estate loans secured by construction, land development, and other land loans in nonaccrual"
+NALREMUL,Real estate loans secured by multifamily (5 or more) residential properties in nonaccrual
+NALRENRS,Real estate loans secured by nonfarm nonresidential properties in nonaccrual
+NALRERES,Real estate loans secured by 1-4 family residential properties in nonaccrual
+NALS,Lease Financing Receivables
+NALTOT,Carrying amount of nonaccrual loans and leases
+NAMEFULL,Institution Name at Time of Reporting
+NAOTHLN,Other Loans
+NARE,"Loans Secured by Real Estate, Total"
+NAREAG,Secured by Farmland
+NARECNFM,1-4 Family Residential Construction
+NARECNOT,"Other Construction, All Land Development and Other Land"
+NARECONS,Construction and Land Development
+NAREFOR,Real Estate Loans in Foreign Offices
+NARELNDO,Real Estate Loans in Domestic Offices
+NARELOC,Secured by 1-4 family residential real estate home equity loans
+NAREMULT,Secured by Multifamily Residential Properties
+NARENRES,Secured by Nonfarm Nonresidential Properties
+NARENROT,Other Non-Farm Non-Residential
+NARENROW,Owner-Occupied Non-farm Residential
+NARENUS,To Non-U.S. Addressees
+NARERES,Secured by 1-4 Family Residential Properties
+NARERSF2,Secured by 1-4 family residential real estate secured by junior liens
+NARERSFM,Secured by 1-4 family residential real estate secured by first liens
+NARSLNFM,Loans Secured by 1-4 Family Residential Properties Nonaccrual Not in Compliance
+NARSLNLS,Loans Secured by Non 1-4 Family Residential Properties Nonaccrual Not in Compliance
+NARSLNLT,Nonaccrual Not in Compliance with their Modified Terms
+NASCDEBT,Debt Securities and Other Assets
+NETINC,Net income
+NFAA,Number of Fiduciary Accounts and Related Asset Accounts
+NTR,Domestic Nontransaction Accounts
+NTRCDSM,"Amount of Time Deposits of $100,000 or less"
+NTRCOMOT,Commercial Banks and Other Depository Institutions in US
+NTRFCFG,Foreign Deposits
+NTRIPC,"Individuals, Partnerships, and Corporations"
+NTRMUNI,States and Political Subdivision in US
+NTRSMMDA,Money Market Savings Deposits Nontransactions Accounts (MMDAs)
+NTRSOTH,Other Savings Deposits Nontransaction Accounts (Excluding MMDAs)
+NTRTMLGJ,"Amount of Total Time Deposits of more than $250,000 (or $100,000 through December 2009)"
+NTRTMMED,"Amount of Time Deposits of $250,000 or less (or $100,000 through December 2009)"
+NTRUSGOV,US Government
+NUMEMP,2. Total Employees (full-time equivalent)
+OALIFGEN,General account life insurance assets
+OALIFHYB,Hybrid life insurance assets
+OALIFINS,Life insurance assets
+OALIFSEP,Separate account life insurance assets
+OBSDIR,Derivatives (footnote: 5
+ORE,Other Real Estate Owned
+OREAG,Farmland
+ORECONS,Construction and Development
+OREINV,Direct and Indirect Investments in Real Estate
+OREMULT,Multifamily Residential Real Estate
+ORENRES,Commercial Real Estate
+OREOTH,Real Estate Acquired
+OREOTHF,Other Real Estate Owned in Foreign Offices
+ORERES,1-4 Family Residential
+OTBFH1L,FHLB advances maturity or repricing: one year or less
+OTBFH1T3,FHLB advances maturity or repricing: over one year through three years
+OTBFH3T5,FHLB advances maturity or repricing: over three years through five
+OTBFHOV5,FHLB advances maturity or repricing: over five years
+OTBFHSTA,FHLB structured advances
+OTBOT1L,Other borrowings maturity or next repricing: one year or less
+OTBOT1T3,Other borrowings maturity or next repricing: over one year through three years
+OTBOT3T5,Other borrowings maturity or next repricing: over three years through five years
+OTBOTOV5,Other borrowings maturity or next repricing: over five years
+OTHBFHLB,FHLB advances
+OTHBOT1L,Other borrowings with a remaining maturity of one year or less
+OTHBRF,Other borrowed funds
+OTHFFC,Futures and Forward Contracts
+OTHNVS,Notional Value of Swaps
+OTHOFFBS,Memoranda: All Other Off-Balance Sheet Liabilities
+OTHPOC,Purchased Option Contracts
+OTHWOC,Written Option Contracts
+P3AG,Loans to Finance Agricultural Prod and Other Loans to Farmers
+P3AGSM,Loans to Finance Agricultural Prod and Other Loans to Farmers (small)
+P3ASSET,Assets Past Due 30-89 Days
+P3AUTO,Automobile Loans
+P3CI,Commercial & Industrial Loans
+P3CINUS,To Non-U.S. Addressees
+P3CON,Loans to Individuals
+P3CONOTH,Other Consumer Loans
+P3CRCD,Credit Cards
+P3DEP,Loans to Depository Institutions
+P3DEPNUS,To Foreign Banks
+P3FG,Loans to Foreign Governments & Official Institutions
+P3GTY,"Guaranteed portion of loans and leases, excluding GNMA loans past due 30-89 days"
+P3GTYGNM,"Rebooked GNMA loans, repurchased or are eligible for repurchase past due 30-89 days"
+P3GTYPAR,"Loans and Leases, Wholly or Partially Guaranteed by the U.S Government"
+P3LAG,Farm loans 30 - 89 days past due
+P3LCI,Commercial and industrial loans 30 - 89 days past due
+P3LCON,"Loans to individuals for household, family, and other personal expenditures 30 - 89 days past due"
+P3LGTY,Total protected portion of covered loans and leases 30 - 89 days past due protected by FDIC loss-sharing agreements
+P3LNSALE,Loans Held for Sale
+P3LOTH,All other loans and all leases 30 - 89 days past due
+P3LREAG,Real estate loans secured by farmland 30 - 89 days past due
+P3LRECON,"Real estate loans secured by construction, land development, and other land loans 30 - 89 days past due"
+P3LREMUL,Real estate loans secured by multifamily (5 or more) residential properties 30 - 89 days past due
+P3LRENRS,Real estate loans secured by nonfarm nonresidential properties 30 - 89 days past due
+P3LRERES,Real estate loans secured by 1-4 family residential properties 30 - 89 days past due
+P3LS,Lease Financing Receivables
+P3LTOT,Carrying amount of covered of loans and leases 30 - 89 days past due
+P3OTHLN,Other Loans
+P3RE,"Loans Secured by Real Estate, Total"
+P3REAG,Secured by Farmland
+P3RECNFM,1-4 Family Residential Construction
+P3RECNOT,"Other Construction, All Land Development and Other Land"
+P3RECONS,Construction and Land Development
+P3REFOR,Real Estate Loans in Foreign Offices
+P3RELNDO,Real Estate Loans in Domestic Offices
+P3RELOC,Secured by 1-4 family residential real estate home equity loans
+P3REMULT,Secured by Multifamily Residential Properties
+P3RENRES,Secured by Nonfarm Nonresidential Properties
+P3RENROT,Other Non-Farm Non-Residential
+P3RENROW,Owner-Occupied Non-farm Residential
+P3RENUS,To Non-U.S. Addressees
+P3RERES,Secured by 1-4 Family Residential Properties
+P3RERSF2,Secured by 1-4 family residential real estate secured by junior liens
+P3RERSFM,Secured by 1-4 family residential real estate secured by first liens
+P3RSLNFM,Loans Secured by 1-4 Family Residential Properties Past Due 30-89 Days Not in Compliance
+P3RSLNLS,Loans Secured by Non 1-4 Family Residential Past Due 30-89 Days Not in Compliance
+P3RSLNLT,Past Due 30-89 Days Not in Compliance with their Modified Terms
+P3SCDEBT,Debt Securities and Other Assets
+P9AG,Loans to Finance Agricultural Prod and Other Loans to Farmers
+P9AGSM,Loans to Finance Agricultural Prod and Other Loans to Farmers (Small)
+P9ASSET,Assets Past Due 90 or More Days
+P9AUTO,Automobile Loans
+P9CI,Commercial & Industrial Loans
+P9CINUS,To Non-U.S. Addressees
+P9CON,Loans to Individuals
+P9CONOTH,Other Consumer Loans
+P9CRCD,Credit Cards
+P9DEP,Loans to Depository Institutions
+P9DEPNUS,To Foreign Banks
+P9FG,Loans to Foreign Governments & Official Institutions
+P9GTY,"Guaranteed portion of loans and leases, excluding GNMA loans past due 90 days"
+P9GTYGNM,"Rebooked GNMA loans, repurchased or are eligible for repurchase past due 90 days"
+P9GTYPAR,"Loans and Leases, Wholly or Partially Guaranteed by the U.S Government"
+P9LAG,Farm loans 90 days or more past due
+P9LCI,Commercial and industrial loans 90 days or more past due
+P9LCON,"Loans to individuals for household, family, and other personal expenditures 90 days or more past due"
+P9LGTY,Total portion of covered loans and leases 90 days or more past due protected by FDIC loss-sharing agreements
+P9LNSALE,Loans Held for Sale
+P9LOTH,All other loans and all leases 90 days or more past due
+P9LREAG,Real estate loans secured by farmland 90 days or more past due
+P9LRECON,"Real estate loans secured by construction, land development, and other land loans 90 days or more past due"
+P9LREMUL,Real estate loans secured by multifamily (5 or more) residential properties 90 days or more past due
+P9LRENRS,Real estate loans secured by nonfarm nonresidential properties 90 days or more past due
+P9LRERES,Real estate loans secured by 1-4 family residential properties 90 days or more past due
+P9LS,Lease Financing Receivables
+P9LTOT,Carrying amount of covered loans and leases 90 days or more past due
+P9OTHLN,Other Loans
+P9RE,"Loans Secured by Real Estate, Total"
+P9REAG,Secured by Farmland
+P9RECNFM,1-4 Family Residential Construction
+P9RECNOT,"Other Construction, All Land Development and Other Land"
+P9RECONS,Construction and Land Development
+P9REFOR,Real Estate Loans in Foreign Offices
+P9RELNDO,Real Estate Loans in Domestic Offices
+P9RELOC,Secured by 1-4 family residential real estate home equity loans
+P9REMULT,Secured by Multifamily Residential Properties
+P9RENRES,Secured by Nonfarm Nonresidential Properties
+P9RENROT,Other Non-Farm Non-Residential
+P9RENROW,Owner-Occupied Non-farm Residential
+P9RENUS,To Non-U.S. Addressees
+P9RERES,Secured by 1-4 Family Residential Properties
+P9RERSF2,Secured by 1-4 family residential real estate secured by junior liens
+P9RERSFM,Secured by 1-4 family residential real estate secured by first liens
+P9RSLNFM,Loans Secured by 1-4 Family Residential Properties Past Due  90 Days or More Not in Compliance
+P9RSLNLS,Loans Secured by Non 1-4 Family Residential Properties Past Due  90 Days or More Not in Compliance
+P9RSLNLT,Past Due 90 Days or More Not in Compliance with their Modified Terms
+P9SCDEBT,Debt Securities and Other Assets
+PARTCONV,Participations in Acceptances Conveyed to Others by Reporting Bank
+PPPLF1LS,Outstanding balance under the PPPLF with a remaining maturity of one year or less
+PPPLFOV1,Outstanding balance under the PPPLF with a remaining maturity of more than one year
+PPPLNBAL,Outstanding balance of PPP loans
+PPPLNNUM,Number of PPP loans outstanding
+PPPLNPLG,Outstanding balance of PPP loans pledged to the PPPLF
+RB2LNRES,Loan Loss Allowance Included in Tier 2 Capital
+RBCT1J,Tier one (core) capital
+RBCT2,Tier 2 Risk-based capital
+RSLNLS,Loans Secured by Non 1-4 Family Residential in Compliance with their Modified Terms
+RSLNLTOT,Restructured Loans and Leases
+RSLNREFM,Loans Secured by 1-4 Family Residential in Compliance with their Modified Terms
+RT,Interest Rate Contracts
+RTFFC,Futures and forward contracts
+RTNVS,Notional Value of Interest Rate Swaps
+RTPOC,Purchased Option Contracts
+RTWOC,Written Option Contracts
+RWAJT,Total risk weighted assets adjusted
+SC,Securities
+SC1LES,Fixed and floating rate debt securities (included above) with remaining maturity of one year or less
+SCABS,Asset Backed Securities
+SCAF,Available for Sale (Fair Market Value)
+SCASPNSUM,Non-mortgage Backed: Issued by U.S. Government Agencies or Sponsored (GSEs)
+SCCMOG,Commercial Mortgage-Backed Other Securities Issued or Guaranteed by U.S. Government Agencies or Sponsored Agencies
+SCCMOS,Other Commercial Mortgage-Backed Securities
+SCCMOT,Other Commercial Mortgage Securities
+SCCMPT,Commercial Mortgage Pass-Through Securities
+SCCOL,Collateralized Mortgage Obligations (CMOs) and REMICS Issued by U.S. Government Agencies or Sponsored Agencies
+SCCPTG,"Commercial Mortgage-Backed Pass-Through Securities Issued or Guaranteed by F.N.M.A., F.H.L.M.C., or G.N.M.A."
+SCDOMO,Other Domestic Debt Securities
+SCEQ,Equity Securities Available for Sale
+SCEQFV,Equity Readily Determinable Fair Values
+SCEQNFT,Equity Securities Not Held for Trading
+SCFMN,Residential Mortgage Backed: Pass-Through Issued by F.N.M.A. and F.H.L.M.C.
+SCFORD,Foreign Debt Securities
+SCGNM,Residential Mortgage Backed: Pass-Through Issued by G.N.M.A.
+SCGTY,Certificates of Participation in Pools of Residential Mortgages Issued or Guaranteed by U.S.
+SCHA,Held to Maturity (Book Value)
+SCHTMRES,Less: Allowance for Credit Losses on Held to Maturity Debt Securities
+SCLENT,Memoranda: Securities Lent
+SCMTGBK,Mortgage-Backed Securities
+SCMUNI,Securities Issued by States & Political Subdivisions
+SCNM1T3,Over one year through three years to reprice or mature
+SCNM3LES,Three months or less to reprice or mature
+SCNM3T12,Over three months through twelve months to reprice or mature
+SCNM3T5,Over three years through five years to reprice or mature
+SCNM5T15,Over five years through fifteen years to reprice or mature
+SCNMOV15,Over fifteen years to reprice or mature
+SCO3YLES,Three years or less expected average life
+SCODOT,Other
+SCODPC,Certificates of Participation in Pools of Residential Mortgages Privately Issued
+SCODPI,Collateralized Mortgage Obligations (CMOs) Privately Issued.
+SCOOV3Y,Over three years  expected average life
+SCP1T3,Over one year through three years to reprice or mature
+SCPLEDGE,Pledged Securities
+SCPT3LES,Three months or less to reprice or mature
+SCPT3T12,Over three months through twelve months to reprice or mature
+SCPT3T5,Over three years through five years to reprice or mature
+SCPT5T15,Over five years through fifteen years to reprice or mature
+SCPTOV15,Over fifteen years to reprice or mature
+SCRDEBT,Total Debt Securities
+SCRMBPI,Privately Issued Residential Mortgage-Backed Securities
+SCSFP,Structured Financial Products
+SCSNHAA,Structured Notes Amortized Cost
+SCSNHAF,Structured Notes Fair Value
+SCTATFR,Less: Assets Held in Trading Accounts for TFR Reporters
+SCUS,U.S. Government Securities
+SCUSO,U.S. Government Obligations (footnote: 1
+SCUST,U.S. Treasury Securities
+SUBND,Subordinated debt
+SZ30AUTO,"Past Due Loan Amounts 30-89 Days, Auto Loans Securitized by Bank"
+SZ30CI,"Past Due Loan Amounts 30-89 Days, C&I Loans Securitized by Bank"
+SZ30CON,"Past Due Loan Amounts 30-89 Days, Other Consumer Loans Securitized by Bank"
+SZ30CRCD,"Past Due Loan Amounts 30-89 Days, Credit Card Receivables Securitized by Bank"
+SZ30HEL,"Past Due Loan Amounts 30-89 Days, Home Equity Lines Securitized by Bank"
+SZ30OTH,"Past Due Loan Amounts 30-89 Days, All Other Loans and Leases Securitized by Bank"
+SZ30RES,"Past Due Loan Amounts 30-89 Days, 1-4 Family Residential Loans Securitized by Bank"
+SZ90AUTO,"Past Due Loan Amounts 90 Days or More, Auto Loans Securitized by Bank"
+SZ90CI,"Past Due Loan Amounts 90 Days or More, C&I Loans Securitized by Bank"
+SZ90CON,"Past Due Loan Amounts 90 Days or More, Other Consumer Loans Securitized by Bank"
+SZ90CRCD,"Past Due Loan Amounts 90 Days or More, Credit Cards Receivables Securitized by Bank"
+SZ90HEL,"Past Due Loan Amounts 90 Days or More, Home Equity Lines Securitized by Bank"
+SZ90OTH,"Past Due Loan Amounts 90 Days or More, All Other Loans and Leases Securitized by Bank"
+SZ90RES,"Past Due Loan Amounts 90 Days or More, 1-4 Family Residential Loans Securitized by Bank"
+SZCRAUTO,"Recoveries, Auto Loans Securitized by Bank"
+SZCRCDFE,Outstanding Credit Card Fees and Financial Charges
+SZCRCI,"Recoveries, C&I Loans Securitized by Bank"
+SZCRCON,"Recoveries, Other Consumer Loans Securitized by Bank"
+SZCRCRCD,"Recoveries, Credit Cards Receivables Securitized by Bank"
+SZCRHEL,"Recoveries, Home Equity Lines Securitized by Bank"
+SZCROTH,"Recoveries, All Other Loans and Leases Securitized by Bank"
+SZCRRES,"Recoveries, 1-4 Family Residential Loans Securitized by Bank"
+SZDRAUTO,"Charge-offs, Auto Loans Securitized by Bank"
+SZDRCI,"Charge-offs, C&I Loans Securitized by Bank"
+SZDRCON,"Charge-offs, Other Consumer Loans Securitized by Bank"
+SZDRCRCD,"Charge-offs, Credit Cards Receivables Securitized by Bank"
+SZDRHEL,"Charge-offs, Home Equity Lines Securitized by Bank"
+SZDROTH,"Charge-offs, All Other Loans and Leases Securitized by Bank"
+SZDRRES,"Charge-offs, 1-4 Family Residential Loans Securitized by Bank"
+SZISLAUT,Maximum Credit Exposure Auto Loans Securitized by Bank
+SZISLCCD,"Maximum Credit Exposure, Credit Card Receivables Securitized by Bank"
+SZISLCI,"Maximum Credit Exposure, C&I Loans Securitized by Bank"
+SZISLCON,"Maximum Credit Exposure, Consumer Loan Securitized by Bank"
+SZISLHEL,"Maximum Credit Exposure, Home Equity Lines Securitized by Bank"
+SZISLOTH,"Maximum Credit Exposure, All Other Loans & Leases Securitized by Bank"
+SZISLRES,"Maximum Credit Exposure, 1-4 Family Residential Loans Securitized by Bank"
+SZLAUTO,Auto Loans Principal Balance Sold and Securitized by Bank
+SZLNCI,Commercial and Industrial (C&I) Loans Principal Balance Sold and Securitized by Bank
+SZLNCON,Other Consumer Loans Principal Balance Sold and Securitized by Bank
+SZLNCRCD,Credit Card Receivables Principal Balance Sold and Securitized by Bank
+SZLNHEL,Home Equity Lines Principal Balance Sold and Securitized by Bank
+SZLNOTH,All Other Loans & Leases Principal Balance Sold and Securitized by Bank
+SZLNRES,1-4 Family Residential Loans Principal Balance Sold and Securitized by Bank
+TCAMA,"Corporate Trust and Agency Accounts, Managed Assets"
+TCAMANUM,"Corporate Trust and Agency, Number of Managed Accounts"
+TCANMA,"Corporate Trust and Agency Accounts, Non-Managed Assets"
+TCANMNUM,"Corporate Trust and Agency, Number of Non-Managed Accounts"
+TCANUM,Number of Corporate and Municipal Trusteeships Account Issues
+TCANUMD,Number of Corporate Trust and Agency Account Issues in Default
+TCAPAO,Principal Amount Outstanding Corporate Trust and Agency Accounts
+TCAPAOD,Amount of Corporate Trust and Agency Account Issues in Default
+TCATNUM,"Number of Transfer Agent, Registrar, Paying Agent and Other Corporate Agency Issues"
+TCDEMV,"Domestic Equity, Collective Investment & Common Trust Funds Total Market Value"
+TCDENUM,"Domestic Equity, Collective Investment & Common Trust Funds Number"
+TCIEMV,"International/Global Equity, Collective Investment & Common Trust Funds Total Market Value"
+TCIENUM,"International/Global Equity, Collective Investment & Common Trust Funds Number"
+TCMBMV,"Municipal Bond, Collective Investment & Common Trust Funds Total Market Value"
+TCMBNUM,"Municipal Bond, Collective Investment & Common Trust Funds Number"
+TCSBMV,Stock/Bond Blend. Collective Investment & Common Trust Funds Total Market Value
+TCSBNUM,"Stock/Bond Blend, Collective Investment & Common Trust Funds Number"
+TCSNMA,"Custody and Safekeeping Accounts, Non-Managed Assets"
+TCSNMNUM,Memo: Number of Non-Managed Custody and Safekeeping Accounts
+TCSOMV,"Specialty/Other, Collective Investment & Common Trust Funds Total Market Value"
+TCSONUM,"Specialty/Other, Collective Investment & Common Trust Funds Number"
+TCSTMV,"Short-Term Investments/Money Market, Collective Investment & Common Trust Funds Total Market Value"
+TCSTNUM,"Short-Term Investments/Money Market, Collective Investment & Common Trust Funds Number"
+TCTBMV,"Taxable Bond Total, Collective Investment & Common Trust Funds Market Value"
+TCTBNUM,"Taxable Bond, Collective Investment & Common Trust Funds Number"
+TCTOTMV,Total Market Value of Collective Investment Fund and Common Trust Funds
+TCTOTNUM,Total Number of Collective Investment Funds and Common Trust Funds
+TEBMA,"Employee Benefit-Defined Benefit Accounts, Managed Assets"
+TEBMANUM,"Employee Benefit-Defined Benefit, Number of Managed Accounts"
+TEBNMA,"Employee Benefit-Defined Benefit Accounts, Non-Managed Assets"
+TEBNMNUM,"Employee Benefit-Defined Benefit, Number of Non-Managed Accounts"
+TECMA,"Employee Benefit-Defined Contribution Accounts, Managed Assets"
+TECMANUM,"Employee Benefit-Defined Contribution, Number of  Managed Accounts"
+TECNMA,"Employee Benefit-Defined Contribution Accounts, Non-Managed Assets"
+TECNMNUM,"Employee Benefit-Defined Contribution, Number of Non-Managed Accounts"
+TECPS,"Other Common & Preferred Stocks, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts"
+TEEQF,"Equity Mutual Funds, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts"
+TEI,"Interest Bearing Deposits, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts"
+TEMATOT,"Memo: Total, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts (Dec. Only)"
+TEMISC,"Miscellaneous Assets, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts"
+TEMMF,"Money Market Mutual Funds, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts"
+TENI,"Noninterest Bearing Deposits, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts"
+TEOTHB,"Other Notes and Bonds, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts"
+TEOTHF,"Other Mutual Funds, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts"
+TERE,"Real Estate, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts"
+TEREMTG,"Real Estate Mortgages, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts"
+TESCMUN,"State, County & Municipal Obligations, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts"
+TESCUS,"U.S. Treasury and U.S. Government Agency Obligations, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts"
+TESTO,"Other Short-Term Obligations, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts"
+TETOT,Fiduciary Expense (Dec. Only)
+TETRF,"Common Trust & Collective Investment Funds, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts"
+TEUF,"Unregistered Funds & Private Equity Investments, Managed Employee Benefit & Retirement-Related Trust & Agency Accounts"
+TFEMA,"Foundation and Endowment Trust and Agency Accounts, Managed Assets"
+TFEMANUM,"Foundation and Endowment Trust and Agency, Number of  Managed Accounts"
+TFENMA,"Foundation and Endowment Trust and Agency Accounts, Non-Managed Assets"
+TFENMNUM,"Foundation and Endowment Trust and Agency, Number of Non-Managed Accounts"
+TFRA,Total Fiduciary and Related Assets
+TICA,"Corporate Trust and Agency, Gross Income"
+TICS,"Custody and Safekeeping Agency Accounts, Gross Income"
+TIEB,"Employee Benefit Defined Benefit, Gross Income"
+TIEC,"Employee Benefit Defined Contribution, Gross Income"
+TIFE,"Foundation and Endowment and Agency Accounts, Gross Income"
+TIMA,"Investment Management and Investment Advisory Agency Accounts, Gross Income"
+TIMMA,"Investment Management  and Investment Advisory Agency Accounts, Managed Assets"
+TIMMAGL,Losses On Investment Management and Investment For Managed Accounts
+TIMMANUM,"Investment Management & Investment Advisory Agency, Number of Managed Accounts"
+TIMNMA,"Investment Management and Advisory Agency Accounts, Non-Managed Assets"
+TIMNMGL,"Investment Management & Investment Advisory Agency, Gross Losses On Non-Managed Accounts"
+TIMNMNUM,"Investment Management and Advisory Agency, Number of Non-Managed Accounts"
+TIMREC,"Investment Management and Investment Advisory Agency Accounts, Recoveries"
+TINTRA,Fiduciary Intracompany Income (Dec. Only)
+TIOF,"Other Trust and Agency Accounts, Gross Income"
+TIOR,"Other Retirement Accounts, Gross Income"
+TIP,"Personal Trust and Agency Accounts, Gross Income"
+TIR,"Other Trust Accounts, Gross Income"
+TITOTF,Memo: Foreign Offices Total  Fiduciary Gross Income
+TMAF,"Memo:  Fiduciary Accounts Held in Foreign Offices, Managed Assets"
+TMAFNUM,Memo: Number of Managed Fiduciary Accounts Held in Foreign Offices
+TMASMF,"Memo: Investments of Fiduciary Accounts in Advised or Sponsored Mutual Funds, Managed Assets (Dec. Only)"
+TMASMFN,Memo: Number of Investments of Fiduciary Accounts in Advised or Sponsored Mutual Funds
+TNI,Net Fiduciary Income (Dec. Only)
+TNL,Fiduciary Net Loss (Dec. Only)
+TNMAF,"Fiduciary Accounts Held in Foreign Offices, Non-Managed Assets"
+TNMNUMF,Memo: Number of Non-Managed Fiduciary Accounts Held in Foreign Offices
+TOCPS,"Other Common and Preferred Stocks, Managed All Other  Accounts"
+TOEQF,"Equity Mutual Funds, Managed All Other Accounts"
+TOFMA,"Other Fiduciary Accounts, Managed Assets"
+TOFMAGL,Losses On Other Fiduciary Accounts and Related For Managed Accounts
+TOFMANUM,"Other Fiduciary, Number of  Managed Accounts"
+TOFNMA,"Other Fiduciary Accounts, Non-Managed Assets"
+TOFNMAGL,"Other Fiduciary Accounts and Related Services, Gross Losses On Non-Managed Assets"
+TOFNMNUM,"Other Fiduciary, Number of Non-Managed Accounts"
+TOFREC,"Other Fiduciary Accounts and Related Services, Recoveries"
+TOI,"Interest-Bearing Deposits, Managed All Other Accounts"
+TOMATOT,"Memo: Total, All Other Managed Asset Accounts (Dec. Only)"
+TOMISC,"Miscellaneous Assets, Managed All Other Accounts"
+TOMMF,"Money Market Mutual Funds, Managed All Other Accounts"
+TONI,"Noninterest-Bearing Deposits, Managed All Other Accounts"
+TOOTHB,"Other Notes and Bonds, Managed All Other Accounts"
+TOOTHF,"Other Mutual Funds, Managed All Other Accounts"
+TORE,"Real Estate, Managed All Other  Accounts"
+TOREMTG,"Real Estate Mortgages, Managed All Other Accounts"
+TORMA,"Other Employee Benefit and Retirement-Related Accounts, Managed Assets"
+TORMANUM,"Other Employee Benefit and Retirement-Related, Number of Managed Accounts"
+TORNMA,"Other Retirement Accounts, Non-Managed Assets"
+TORNMNUM,"Other Employee Benefit and Retirement-Related, Number of Non-Managed Accounts"
+TOSCMUN,"State, County and Municipal Obligations, Managed All Other Accounts"
+TOSCUS,"U.S. Treasury & U.S. Government Agency Obligations, Managed All Other Accounts"
+TOSTO,"Other Short-Term Obligations, Managed All Other Accounts"
+TOTAL,1. Number of Institutions Reporting
+TOTRF,"Common Trust Funds and Collective Investment Funds, Managed All Other  Accounts"
+TOUF,"Investments in Unregistered Funds & Private Equity Investments, Managed All Other Accounts"
+TPICPS,"Other Common and Preferred Stocks, Managed Personal Trust & Investment Management Agency Accounts"
+TPIEQF,"Equity Mutual Funds, Managed Personal Trust & Investment Management Agency Accounts"
+TPII,"Interest-Bearing Deposits, Managed Personal Trust & Investment Management Agency Accounts"
+TPIMATOT,"Memo: Total, Managed Personal Trust & Investment Management Agency Accounts (Dec. Only)"
+TPIMISC,"Miscellaneous Assets, Managed Personal Trust & Investment Management Agency Accounts"
+TPIMMF,"Money Market Mutual Funds, Managed Personal Trust & Investment Management Agency Accounts"
+TPINI,"Noninterest-Bearing Deposits, Managed Personal Trust & Investment Management Agency Accounts"
+TPIOTHB,"Other Notes and Bonds, Managed Personal Trust & Investment Management Agency Accounts"
+TPIOTHF,"Other Mutual Funds, Managed Personal Trust & Investment Management Agency Accounts"
+TPIRE,"Real Estate, Managed Personal Trust & Investment Management Agency Accounts"
+TPIREMTG,"Real Estate Mortgages, Managed Personal Trust & Investment Management Agency Accounts"
+TPISCMUN,"State, County and Municipal Obligations, Managed Personal Trust & Investment Management Agency Accounts"
+TPISCUS,"U.S. Treasury & U.S. Government Agency Obligations, Assets Personal Trust & Investment Management Agency Accounts"
+TPISTO,"Other Short-Term Obligations, Managed Personal Trust & Investment Management Agency Accounts"
+TPITRF,"Common Trust & Collective Investment Funds, Managed Personal Trust & Investment Management Agency Accounts"
+TPIUF,"Unregistered Funds & Private Equity Investments, Managed Personal Trust & Investment Management Agency Accounts"
+TPMA,"Personal Trust and Agency Accounts, Managed Assets"
+TPMAGL,"Fiduciary Settlements, Surcharges, and Other Losses For Managed Accounts"
+TPMANUM,"Personal Trust and Agency, Number of Managed Accounts"
+TPNMA,"Personal Trust and Agency Accounts, Non-Managed Assets"
+TPNMGL,"Fiduciary Settlements, Surcharges, and Other, Gross Losses On Non-Managed Accounts"
+TPNMNUM,"Personal Trust and Agency, Number of Non-Managed Accounts"
+TPTREC,"Fiduciary Settlements, Surcharges, and Other, Recoveries"
+TRACT,Number with Fiduciary or Related Activity
+TRADE,Assets Held in Trading Accounts
+TRADEL,Trading Liabilities
+TREXER,Number with Fiduciary Power Exercised
+TRHMA,"Memo: Individual Retirement, Health Savings and Similar Accounts, Managed Assets"
+TRHMANUM,"Memo: Number of Managed Individual Retirement, Health Savings, and Similar Accounts"
+TRHNMA,"Individual Retirement, Health Savings and Similar Accounts, Non-Managed"
+TRHNMNUM,"Memo: Number of Non-Managed Individual Retirement, Health Savings and Similar Accounts"
+TRLREVAL,Revaluation Losses on Off-Balance Sheet Contracts
+TRN,Domestic Transaction Accounts
+TRNCBO,Commercial Banks and Other Depository Institutions in US
+TRNFCFG,Foreign Deposits
+TRNIPCOC,"Individuals, Partnerships, and Corporations"
+TRNMUNI,States and Political Subdivision in US
+TRNNIA,"Amount of Non-Interest Bearing Transaction Accounts of More Than $250,000 (2010-2013)"
+TRNNIN,"Number of Non-Interest Bearing Transaction Account of More Than $250,000 (2010-2013)"
+TRNUSGOV,US Government
+TRPOWER,Number with Fiduciary Powers Granted
+TRREVALSUM,Revaluation Gains on Off-Balance Sheet Contracts (footnote: 2
+TRTMAGL,Employee Benefit and Retirement-Related Losses For Managed Accounts
+TRTNMGL,"Employee Benefit and Retirement-Related Trust and Agency Accounts, Gross Losses On Non-Managed Accounts"
+TRTREC,"Employee Benefit and Retirement-Related Trust and Agency Accounts, Recoveries"
+TS,Total Time and Savings Deposits
+TTMA,Managed Assets ($)
+TTNANUM,Number of Managed Accounts
+TTNMA,Non-Managed Assets ($)
+TTNMNUM,Number of Non-Managed Accounts
+TTOTMAGL,Memo: Gross Losses For Managed Accounts (Dec. Only)
+TTOTNMGL,Memoranda: Losses For Non-Managed Accounts (Dec. Only)
+TTOTREC,Memoranda: Recoveries For Fiduciary and Related Services Income (Dec. Only)
+UC,Total Unused Commitments
+UCCOMRE,"Commercial Real Estate, Construction and Land Development"
+UCCOMRES,Commitments Secured by Real Estate
+UCCOMREU,Commitments not Secured by Real Estate
+UCCRCD,Credit Card Lines
+UCLOC,"Revolving, Open-End Lines Secured by 1-4's"
+UCOTHER,Other Unused Commitments
+UCOVER1,Memoranda: Commitments with an Original Maturity Exceeding 1 yr
+UCSC,Securities Underwriting
+UNINCFOR,Plus Unearned Income
+VOLIAB,Volatile liabilities
+and Total Assets of less than $1 billion. In September of 2019 the criteria change to: banks filing a FFIEC Call Report 51,"5.  As of 2017, only the line items Total Derivatives"" and ""Interest Rate Contracts"" are reported by banks that match the following: are filing a FFIEC Call Report 51"
